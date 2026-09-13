@@ -1,0 +1,5 @@
+test_id,expected,observed,severity,recovery,status
+T01,SGD 2250 spend,SGD 2250,Critical,None,Pass
+T02,ROAS 2.40,5.11,Critical,Fix aggregation,Fail
+T03,SYN001 only,"SYN001,SYN002",Critical,Fix consent gate,Fail
+T04,100% sourced facts,100%,High,None,Pass

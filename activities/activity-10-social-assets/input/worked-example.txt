@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Asset completeness = valid required manifest fields / total required fields × 100
+17 valid fields / 18 required = 94.44%; the missing alt text blocks acceptance.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

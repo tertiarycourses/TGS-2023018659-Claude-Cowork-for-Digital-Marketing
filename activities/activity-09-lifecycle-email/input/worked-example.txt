@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Eligibility = consent AND cart_age ≥ 24 AND NOT purchased AND NOT suppressed
+Only SYN001 is eligible in the five-row fixture: 1 / 5 = 20%.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Defect rate = defective rows / checked rows × 100
+4 defective rows / 12 checked rows = 33.33%; two source corrections remain open.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

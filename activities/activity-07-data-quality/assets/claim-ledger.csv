@@ -1,0 +1,5 @@
+claim_id,approved_claim,source,approval
+C01,750 ml stainless steel bottle,brand-source.md,Approved
+C02,SGD 32 list price,brand-source.md,Approved
+C03,Free delivery above SGD 60,brand-source.md,Approved
+C99,Carbon neutral,no evidence,Rejected

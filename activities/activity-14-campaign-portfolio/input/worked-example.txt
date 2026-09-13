@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Portfolio traceability = deliverables with input + rule + test links / deliverables × 100
+4 fully linked deliverables / 4 deliverables = 100%; no live campaign publishing is performed.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

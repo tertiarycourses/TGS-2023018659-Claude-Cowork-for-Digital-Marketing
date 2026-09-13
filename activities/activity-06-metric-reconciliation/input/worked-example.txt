@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+ROAS = attributed revenue / advertising spend; CPA = spend / orders
+Search ROAS = 2400 / 1200 = 2.00; CPA = 1200 / 40 = SGD 30.00.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

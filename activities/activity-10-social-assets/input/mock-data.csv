@@ -1,0 +1,5 @@
+asset_id,channel,format,claim_ids,alt_text,status
+A01,Instagram,Square concept,"C01,C02",Bottle beside bag,Draft
+A02,LinkedIn,Landscape concept,C01,Reusable bottle on desk,Draft
+A03,Email,Banner concept,"C02,C03",Bottle with price label,Draft
+A04,All,Medical claim,C99,None,Reject

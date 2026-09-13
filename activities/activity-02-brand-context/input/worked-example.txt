@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Grounding coverage = sourced factual claims / total factual claims × 100
+9 sourced claims / 10 factual claims = 90%; remove the unsupported claim to reach 100%.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

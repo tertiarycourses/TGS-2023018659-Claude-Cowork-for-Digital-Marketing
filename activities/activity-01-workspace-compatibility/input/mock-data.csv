@@ -1,0 +1,5 @@
+component,interface,input_format,permission,owner,status
+Campaign export,Local CSV,UTF-8 / SGD,Read only,Analyst,Compatible
+Brand brief,Local Markdown,Approved claims,Read only,Brand owner,Compatible
+CRM connector,Remote MCP,Vendor schema,Scoped read,CRM admin,Conditional
+Email send,External write,Consent required,No access,Campaign owner,Blocked

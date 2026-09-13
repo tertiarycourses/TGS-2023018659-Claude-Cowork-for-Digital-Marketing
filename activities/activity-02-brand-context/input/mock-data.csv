@@ -1,0 +1,5 @@
+claim_id,approved_claim,source_file,source_section,approval,expiry
+C01,750 ml stainless bottle,product.md,Specifications,Approved,2026-12-31
+C02,SGD 32 list price,price-list.csv,SKU RB750,Approved,2026-10-31
+C03,Free delivery above SGD 60,policy.md,Delivery,Approved,2026-10-31
+C04,Carbon neutral,No supporting source,None,Reject,None

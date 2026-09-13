@@ -1,0 +1,5 @@
+source,transport,auth_owner,allowed_action,returned_fields,gate
+Ads reporting,Remote connector,Ads admin,Read aggregates,"campaign_id,spend",Scope review
+CRM reporting,Remote connector,CRM admin,Read segments,"segment_id,count",Consent review
+Local export,Folder access,Learner,Read CSV,"date,campaign_id",Schema review
+Publishing,External service,Campaign owner,Write disabled,None,Separate approval

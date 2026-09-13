@@ -1,0 +1,5 @@
+keyword,intent,volume,difficulty,target_page,priority
+reusable water bottle singapore,Commercial,900,35,/bottles,High
+how to clean steel bottle,Informational,600,22,/care,Medium
+750ml steel bottle,Commercial,400,28,/rb750,High
+free water bottle,Mismatch,1200,18,None,Reject

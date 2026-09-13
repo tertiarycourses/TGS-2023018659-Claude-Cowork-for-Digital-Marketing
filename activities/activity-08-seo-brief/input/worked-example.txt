@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Planning score = volume × relevance weight / (difficulty + 1)
+900 × 1.0 / (35 + 1) = 25.00; the score is an internal planning heuristic, not a search-engine ranking formula.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

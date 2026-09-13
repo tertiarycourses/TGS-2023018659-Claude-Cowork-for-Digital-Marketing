@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "client": "Cowork teaching client",
+  "server": "example reporting server",
+  "request": {
+    "action": "read_aggregates",
+    "source_account": "sandbox-only",
+    "campaign_id": "CMP01"
+  },
+  "result": {
+    "status": "permission_denied",
+    "reason": "property not permitted"
+  },
+  "live_execution": false
+}

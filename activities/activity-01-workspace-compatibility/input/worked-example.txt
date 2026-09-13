@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Compatibility rate = passed checks / applicable checks × 100
+8 passed / 10 applicable × 100 = 80%; two blocked checks prevent a live connection.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

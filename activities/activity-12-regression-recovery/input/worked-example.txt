@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Release readiness = all critical tests pass AND unresolved defects = 0
+2 / 4 initial tests pass = 50%; two critical failures block release regardless of appearance.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

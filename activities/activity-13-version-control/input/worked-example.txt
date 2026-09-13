@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Change coverage = affected rules with retests / affected rules × 100
+3 retested rules / 3 affected rules = 100%; approval remains a separate requirement.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

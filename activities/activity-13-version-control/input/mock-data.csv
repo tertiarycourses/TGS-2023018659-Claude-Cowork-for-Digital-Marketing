@@ -1,0 +1,5 @@
+version,change,test_evidence,owner,state,rollback
+1.0,Initial contract,Baseline fixture,Analyst,Retired,Archive
+1.1,Weighted ROAS fix,"T01,T02 pass",Analyst,Candidate,Restore 1.0 inputs
+1.2,Consent gate fix,T03 pass,CRM owner,Review,Keep sending disabled
+2.0,New source schema,Full suite required,Integration owner,Planned,Previous mapping

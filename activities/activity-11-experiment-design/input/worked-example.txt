@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+CVR = orders / visitors; relative lift = (CVR_B − CVR_A) / CVR_A
+A = 40 / 1000 = 4%; B = 50 / 1000 = 5%; relative lift = 25%, absolute difference = 1 percentage point.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

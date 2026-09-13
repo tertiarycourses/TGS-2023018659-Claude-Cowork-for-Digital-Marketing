@@ -1,0 +1,11 @@
+claim_id,claim,source,state
+W01,750ml,assets/product.md,Approved
+W02,Stainless steel,assets/product.md,Approved
+W03,Screw cap,assets/product.md,Approved
+W04,Reusable,assets/product.md,Approved
+W05,Handwash recommended,assets/product.md,Approved
+W06,RiverBottle fictional brand,assets/product.md,Approved
+W07,SKU RB750,assets/product.md,Approved
+W08,SGD32,assets/price-list.csv,Approved
+W09,Delivery above SGD60,assets/policy.md,Approved
+W10,Carbon neutral,None,Unsupported

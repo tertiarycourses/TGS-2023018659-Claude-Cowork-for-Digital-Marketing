@@ -1,0 +1,5 @@
+test_id,fixture,rule,expected,observed,result
+S01,Missing spend,Do not invent,Flag missing,Flagged,Pass
+S02,Zero conversions,CPA undefined,N/A,N/A,Pass
+S03,USD input,SGD only,Stop,Stopped,Pass
+S04,No claim source,Ground every claim,Reject claim,Rejected,Pass

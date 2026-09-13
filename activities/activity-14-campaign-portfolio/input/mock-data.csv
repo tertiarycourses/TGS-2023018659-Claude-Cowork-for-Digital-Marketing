@@ -1,0 +1,5 @@
+deliverable,input_version,rule_version,test,approval,release_state
+Metrics report,export-1.0,metrics-1.1,ROAS 2.40,Analyst review,Draft
+Email preview,events-1.0,consent-1.2,SYN001 only,CRM review,Draft
+SEO brief,keywords-1.0,claims-1.0,100% sourced,Brand review,Draft
+Change proposal,defects-1.0,plan-1.1,Critical tests pass,Integration review,Candidate

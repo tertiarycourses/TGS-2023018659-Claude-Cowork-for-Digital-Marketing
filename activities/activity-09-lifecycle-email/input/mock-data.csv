@@ -1,0 +1,6 @@
+customer_id,consent,cart_age_hours,purchased,suppressed,eligible
+SYN001,Yes,30,No,No,Yes
+SYN002,No,28,No,No,No
+SYN003,Yes,26,Yes,No,No
+SYN004,Yes,2,No,No,No
+SYN005,Yes,32,No,Yes,No

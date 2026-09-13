@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Regression pass rate = passed fixtures / executed fixtures × 100
+4 passes / 4 fixtures = 100%; this tests the package contract, not vendor execution availability.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

@@ -1,0 +1,4 @@
+SEPARATE SYNTHETIC WORKED EXAMPLE (not necessarily the main table row count):
+Duplicate key rate = duplicate primary-key rows / total rows × 100
+2 duplicates / 20 rows × 100 = 10%; campaign-date-channel grain must be unique.
+Chart data is independently supplied in chart-data.csv. Main-table acceptance checks are stated in the guide.

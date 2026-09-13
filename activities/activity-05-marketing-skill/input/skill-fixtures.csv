@@ -1,0 +1,5 @@
+test_id,currency,spend_sgd,orders,revenue_sgd,claim,expected
+S01,SGD,,5,300,750ml,Flag missing spend
+S02,SGD,100,0,0,750ml,CPA N/A
+S03,USD,100,5,300,750ml,Stop incompatible currency
+S04,SGD,100,5,300,Carbon neutral,Reject unsupported claim

@@ -1,0 +1,5 @@
+row_id,defect,raw_value,expected_rule,action,status
+R02,Currency,USD,SGD,Quarantine,Open
+R04,Duplicate,CMP03/2026-09-01,Unique key,Deduplicate with evidence,Fixed
+R07,Negative spend,-50,Spend ≥ 0,Request source correction,Open
+R09,Missing orders,Blank,Explicit missing state,Keep N/A,Flagged

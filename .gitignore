@@ -1,0 +1,19 @@
+# Private course records and authoring tools
+.env
+.env.*
+.claude/
+.codex/
+.build/
+.qa/
+assessment/
+reference/
+course_application/
+courseware/assets/
+courseware/archive/
+courseware/FG-*
+courseware/AP-*
+__pycache__/
+.DS_Store
+~$*
+qa/
+.playwright-mcp/
