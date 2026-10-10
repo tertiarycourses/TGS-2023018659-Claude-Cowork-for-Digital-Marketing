@@ -11,7 +11,7 @@ Prepare source-grounded marketing content and campaign reports with Claude Cowor
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-claude-cowork-for-digital-marketing.html) |
 | Funding | Up to 70% for eligible learners or employers. Eligibility and current funding terms apply. |
 | Skills Framework | System Integration — `ICT-DIT-3016-1.1` |
-| Package | Version 8.0 |
+| Package | Slide deck v9.0; Lesson Plan and Learner Guide v8.0 |
 
 ## About the course
 
