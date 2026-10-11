@@ -1,8 +1,8 @@
 # Private course records and authoring tools
 .env
 .env.*
-.claude/
-.codex/
+/.claude/
+/.codex/
 .build/
 .qa/
 assessment/
@@ -17,3 +17,7 @@ __pycache__/
 ~$*
 qa/
 .playwright-mcp/
+/archive/
+/build/
+assessment/archive/
+*.zip
